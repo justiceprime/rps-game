@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+.container {
+    width: 75%;
+    text-align: center;
+    justify-content: space-around;
+    border: 2px solid black;
+    margin: 5 auto;
+    box-sizing: content-box;
+}
+
+.flex-box-rps img{
+    padding: 2px;
+    border: 2px solid black;
+    margin: 30px;
+    box-shadow: 1px 5px 20px blueviolet;
+}
+
+.flex-box-rps {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
